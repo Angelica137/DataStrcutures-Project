@@ -1,6 +1,6 @@
 # Data structures
 
-1. Least recently used cache
+### 1. Least recently used cache
 
 For our first problem, the goal will be to design a data structure known as a Least Recently Used (LRU) cache. For the current problem, consider both ```get``` and ```set``` operations as an ```use operation```.
 
